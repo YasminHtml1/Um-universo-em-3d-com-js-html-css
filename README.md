@@ -5,6 +5,9 @@ O projeto simula um universo detalhado, com iluminação realista, sistemas de e
 
 ---
 
+#curtiu a ideia? vem testar!!
+[Venha!](https://yasminhtml1.github.io/meu-sistema-operacional/)
+
 ## ✨ Funcionalidades
 
 - 📺 **TV com som estéreo**  
